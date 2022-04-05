@@ -1,0 +1,9 @@
+img {
+  object-fit: cover;
+  height: 50vh;
+  width: 100%;
+}
+
+.cart-height {
+  height: 100vh;
+}
